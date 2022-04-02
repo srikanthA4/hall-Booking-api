@@ -18,8 +18,8 @@ const rooms = [
       roomId: "101",
       bookingDetails: [
         {
-          customerName: "Sandeep",
-          date: new Date("2022-1-20"),
+          customerName: "Srikanth",
+          date: new Date("2022-4-1"),
           start: "07:00",
           end: "10:00",
           status: "confirmed",
@@ -34,8 +34,8 @@ const rooms = [
       roomId: "def",
       bookingDetails: [
         {
-          customerName: "kuldeep",
-          date: new Date("2022-1-19"),
+          customerName: "masthan",
+          date: new Date("2022-3-29"),
           start: "15:00",
           end: "17:00",
           status: "Payment Pending",
